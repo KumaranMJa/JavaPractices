@@ -1,2 +1,2 @@
 # JavaPractices
-Java code implementations while learning
+Code I implemented while learning java.
